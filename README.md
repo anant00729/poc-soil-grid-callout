@@ -12,4 +12,5 @@
 #### Run
 1. "python3 soil_grid.py" // Starts the command line application
 2. "?" // Displays the menu items
-3. "get_soil_grid" // Calls the soil grid API for the specified Lat and Lng and depth range.
+3. "get_soil_grid" // Calls the soil grid API for the specified Lat and Lng and depth range and returns %sand, %silt, %clay and
+bulk density.
