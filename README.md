@@ -1,4 +1,4 @@
-# Term Project README
+# Soil Grid POC README
 
 ## Prerequisites
 
