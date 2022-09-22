@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. make sure Python is install in your system
+1. make sure python is install in your system.
 
 ## Setup
 
