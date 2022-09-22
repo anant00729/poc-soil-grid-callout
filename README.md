@@ -1,4 +1,4 @@
-# Soil Grid POC README
+# Soil Grid POC
 
 ## Prerequisites
 
