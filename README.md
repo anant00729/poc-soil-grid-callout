@@ -6,8 +6,8 @@
 
 ## Setup
 
-1. Clone the repository
-2. open command line and got the root directory of the project i.e "soilgrid_callout"
+1. clone the repository
+2. open command line and go to the root directory of the project i.e "soilgrid_callout"
 
 #### Run
 1. "python3 soil_grid.py" // Starts the command line application
